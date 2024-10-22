@@ -1,0 +1,27 @@
+# Ignore macOS system files
+.DS_Store
+.Trash
+.localized
+.Spotlight-V100
+.DocumentRevisions-V100
+.fseventsd
+.TemporaryItems
+.VolumeIcon.icns
+
+# Ignore system library and user-specific directories
+/Library/
+/Downloads/
+/Desktop/
+/Documents/
+
+# Ignore hidden files
+.*
+
+# Ignore Git configuration files
+.git/
+
+# Ignore Caches
+/Library/Caches/
+
+
+
